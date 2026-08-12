@@ -1,13 +1,13 @@
 # Hi there! I'm André 👋
 
-I'm a **Systems Analysis and Development student** from Brazil, currently building my experience in software development and exploring different areas of technology.
+I'm a **System Development student** from Brazil, currently building my experience in software development and exploring different areas of technology.
 
 I enjoy learning through practice, creating small projects, experimenting with new technologies, and constantly improving my programming skills.
 
 ## 👨‍💻 About Me
 
 * 🎓 Systems Analysis and Development student
-* 💻 Interested in **Software Development, Back-End Development and Databases**
+* 💻 Interested in **Software Development, Python Development and Front-End Development**
 * 🌱 Currently improving my programming skills and learning new technologies
 * 🧠 Always looking for new challenges and opportunities to learn
 * 🇧🇷 Based in São Paulo, Brazil
