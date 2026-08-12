@@ -39,12 +39,6 @@ I'm currently focused on strengthening my foundations in:
 * Git and version control
 * Software development fundamentals
 
-## 📊 GitHub Stats
-
-![André's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devayzo\&show_icons=true\&theme=github_dark\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devayzo\&layout=compact\&theme=github_dark\&hide_border=true)
-
 ## 📫 Contact
 
 Feel free to reach out!
