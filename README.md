@@ -1,13 +1,13 @@
 # Hi there! I'm André 👋
 
-I'm a **System Development student** from Brazil, currently building my experience in software development and exploring different areas of technology.
+I'm a **Systems Analysis and Development student** from Brazil, currently building my experience in software development and exploring different areas of technology.
 
 I enjoy learning through practice, creating small projects, experimenting with new technologies, and constantly improving my programming skills.
 
 ## 👨‍💻 About Me
 
 * 🎓 Systems Analysis and Development student
-* 💻 Interested in **Software Development, Python Development and Front-End Development**
+* 💻 Interested in **Software Development, Back-End Development and Databases**
 * 🌱 Currently improving my programming skills and learning new technologies
 * 🧠 Always looking for new challenges and opportunities to learn
 * 🇧🇷 Based in São Paulo, Brazil
@@ -19,7 +19,12 @@ I enjoy learning through practice, creating small projects, experimenting with n
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
 **Tools & Technologies**
 
@@ -34,6 +39,7 @@ I'm currently focused on strengthening my foundations in:
 
 * Programming logic and algorithms
 * C and Python
+* JavaScript and React
 * Relational databases and SQL
 * Data structures
 * Git and version control
@@ -48,18 +54,3 @@ Feel free to reach out!
 ---
 
 > *Always learning, one commit at a time.*
-
-<!--
-**devayzo/devayzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
