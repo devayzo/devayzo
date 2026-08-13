@@ -6,7 +6,7 @@ I enjoy learning through practice, creating small projects, experimenting with n
 
 ## 👨‍💻 About Me
 
-* 🎓 System Development student
+* 🎓 Systems Development student
 * 💻 Interested in **Software Development and Front-End Development**
 * 🌱 Currently improving my programming skills and learning new technologies
 * 🧠 Always looking for new challenges and opportunities to learn
